@@ -8,7 +8,7 @@ This repository contains a complete RNA-seq data analysis workflow used in my MS
 ## Pipeline Overview
 1. **Quality Control:** `FastQC`, `MultiQC`
 2. **Trimming:** `Trimmomatic`
-3. **Quality Control:** 'FastQC', 'MultiQC'
+3. **Quality Control:** `FastQC`, `MultiQC`
 4. **Alignment:** `STAR`
 5. **Counting:** `featureCounts`
 6. **Differential Expression:** `Limma-voom`
