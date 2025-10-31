@@ -33,3 +33,5 @@ STAR --runThreadN 8 --genomeDir genome_index --readFilesIn sample_R1.fq.gz sampl
 # Counting
 featureCounts -a annotation.gtf -o counts.txt *.bam
 #DE_Analysis in R
+**Differential analysis**
+**Visualization**
